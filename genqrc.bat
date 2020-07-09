@@ -1,0 +1,1 @@
+pyside2-rcc.exe resources/resources.qrc -o src/resources_qrc.py

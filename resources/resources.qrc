@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/" >
+    <file>close.png</file>
+    <file>icon.png</file>
+    <file>keyboard.png</file>
+    <file>new.png</file>
+    <file>systray_icon.png</file>
+    <file>target.png</file>
+  </qresource>
+</RCC>

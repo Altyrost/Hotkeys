@@ -1,0 +1,8 @@
+.vs*
+__py*
+*.pyo
+*.exe
+*.spec
+build/*
+dist/*
+*.json
